@@ -21,4 +21,4 @@ I am a student who is interested in programming and technology. I enjoy learning
 This repository was created for my Final Project requirement and to showcase my learning and skills in programming.
 
 ## Contact
-GitHub: https://github.com/Reggie-portfolio
+GitHub: https://github.com/Reggieworks
