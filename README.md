@@ -13,7 +13,7 @@ I am a student who is interested in programming and technology. I enjoy learning
 
 ## Project Screenshot
 
-![Project Image](https://github.com/Reggieworks/Reggie-portfolio/blob/484f8461fd19ae026f26e99ffe13401b5b15d09c/Screenshot_20260522-012707.jpg)
+![Project Image]()
 
 
 ## Skills
