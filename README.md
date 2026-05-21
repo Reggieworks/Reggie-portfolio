@@ -14,8 +14,6 @@ I am a student who is interested in programming and technology. I enjoy learning
 ## Project Screenshot
 
 ![Project Image](https://github.com/Reggieworks/Reggie-portfolio/blob/8475b9231d55b9c9c773e50d5f5ba5537580de40/file_00000000d02c72089a783fa04490369f.png)
-
-![Project Image](https://github.com/Reggieworks/Reggie-portfolio/blob/350259b491c355f5862df6a8f2e8bbdbd1ce9d76/IMG_20260522_025120_976.jpg)
 ## Skills
 - Basic Programming
 - Problem Solving
