@@ -1,27 +1,85 @@
-# Reggie-portfolio
-Hello! I am Reggie Dela Cruz.
+# Computer Engineering Portfolio
 
-Welcome to my GitHub portfolio repository. This repository contains my programming projects, activities, and documentation.
+## Personal Information
 
-## About Me
-I am a student who is interested in programming and technology. I enjoy learning how to create programs and improve my coding skills.
+### Name
+Reggie Dela Cruz
 
-## Projects
-- Simple Programming Activities
-- Basic Coding Projects
-- School Programming
+### Course & Section
+BS COM ENG
 
-## Project Screenshot
+---
 
-![Project Image](https://github.com/Reggieworks/Reggie-portfolio/blob/8475b9231d55b9c9c773e50d5f5ba5537580de40/file_00000000d02c72089a783fa04490369f.png)
-## Skills
+# About Me
+
+Hello! I am Reggie Dela Cruz, a Computer Engineering student who is interested in programming, web design, and technology projects. I enjoy learning coding and improving my technical skills.
+
+---
+
+# Skills & Technologies
+
 - Basic Programming
+- Python Programming
+- HTML & CSS
 - Problem Solving
-- Coding Fundamentals
 - Computer Skills
+- Documentation
 
-## Purpose of this Repository
-This repository was created for my Final Project requirement and to showcase my learning and skills in programming.
+---
 
-## Contact
-GitHub: https://github.com/Reggieworks
+# Featured Projects
+
+## 1. Login Screen Design
+
+### Description
+A simple login screen UI design created for practice in user interface design.
+
+### Technologies Used
+- UI Design
+- Mobile Layout Design
+
+### Screenshot
+![Login Screen](images/login-screen.png)
+
+---
+
+## 2. Calculator Program
+
+### Description
+A Python calculator program that performs addition, subtraction, multiplication, and division.
+
+### Technologies Used
+- Python
+
+### Screenshot
+![Calculator Program](images/calculator-output.png)
+
+---
+
+## 3. Simple Website Design
+
+### Description
+A simple personal portfolio website created using HTML.
+
+### Technologies Used
+- HTML
+- CSS
+
+### Screenshot
+![Website Design](images/website-design.png)
+
+---
+
+# Technologies Used
+
+- Python
+- HTML
+- CSS
+- VS Code
+- GitHub
+
+---
+
+# Contact Information
+
+GitHub: https://github.com/yourusername
