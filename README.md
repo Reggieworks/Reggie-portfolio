@@ -78,6 +78,31 @@ A simple personal portfolio website created using HTML.
 - VS Code
 - GitHub
 
+## 4. Simple Power Supply Circuit
+
+### Description
+This project is a simple 5V power supply circuit designed using basic electronic components. It converts AC voltage into a stable 5V DC output that can be used for small electronic devices and circuits.
+
+### Components Used
+- Transformer
+- Diodes
+- Capacitor
+- Voltage Regulator (7805)
+- LED Indicator
+- Resistor
+
+### Features
+- Converts AC to DC
+- Provides stable 5V output
+- Simple and beginner-friendly circuit
+- Used for basic electronics projects
+
+### Screenshot
+![Simple Circuit](images/simple-circuit.jpg)
+
+### Technologies Used
+- Electronics
+- Breadboard Assembly
 ---
 
 # Contact Information
