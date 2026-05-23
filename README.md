@@ -6,7 +6,7 @@
 Reggie Dela Cruz
 
 ### Course & Section
-BS COM ENG
+BS COM ENG/CE3A
 
 ---
 
