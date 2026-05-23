@@ -66,7 +66,7 @@ A simple personal portfolio website created using HTML.
 - CSS
 
 ### Screenshot
-![Website Design](images/website-design.png)
+![Website Design](https://github.com/Reggieworks/CpE_Portfolio_DelaCruz_BSCpE3A/blob/2d42a98ee9109ab02ded1a32ac64d9c6a40df75b/file_000000009a98720bad2cac771735af7f.png)
 
 ---
 
@@ -82,4 +82,4 @@ A simple personal portfolio website created using HTML.
 
 # Contact Information
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Reggieworks
