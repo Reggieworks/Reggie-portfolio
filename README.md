@@ -99,8 +99,9 @@ This project is a simple 5V power supply circuit designed using basic electronic
 
 ### Screenshot
 ![Simple Circuit](https://github.com/Reggieworks/CpE_Portfolio_DelaCruz_BSCpE3A/blob/14e404a63018b5ab8d0cee53fee7a0ba1a4a0547/received_1535145784930342.jpeg)
+
 ### Screenshot
-![Simple Circuit](images/simple-circuit.jpg)
+![Simple Circuit](https://github.com/Reggieworks/CpE_Portfolio_DelaCruz_BSCpE3A/blob/215f5ee07d85adf7676884132dfce8960cf248c5/IMG_20260523_111947_073.jpeg)
 
 ### Technologies Used
 - Electronics
