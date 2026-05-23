@@ -39,7 +39,7 @@ A simple login screen UI design created for practice in user interface design.
 - Mobile Layout Design
 
 ### Screenshot
-![Login Screen](images/login-screen.png)
+![Login Screen](https://github.com/Reggieworks/CpE_Portfolio_DelaCruz_BSCpE3A/blob/165d9042bfe22d71e4ca9d1f2f19af1287b52d9f/file_0000000071287208bb58014a8db668b6.png)
 
 ---
 
